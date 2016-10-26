@@ -2,4 +2,4 @@
 
 ## 進度
 
-  1. [主題確認](https://github.com/mosluce/minithon-b-team-swift/issues/1)
+  1. [選擇主題](https://github.com/mosluce/minithon-b-team-swift/issues/1)
